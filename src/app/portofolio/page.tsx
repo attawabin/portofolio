@@ -1,8 +1,8 @@
 import * as React from "react";
 
-interface IPortfolioProps {}
+// interface IPortfolioProps {}
 
-const Portfolio: React.FunctionComponent<IPortfolioProps> = (props) => {
+const Portfolio: React.FunctionComponent = () => {
   return (
     <div>
       <p>Portfolio</p>
